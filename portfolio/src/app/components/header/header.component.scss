@@ -1,0 +1,52 @@
+
+header{
+  display: flex;
+  padding-top: 100px;
+  justify-content: space-evenly;
+}
+
+img {
+  width: 26%;
+  height: 90%;
+}
+
+.content {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+header h4 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+  margin: 0;
+  margin-left: 27px;
+}
+
+header h1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  color: #000000;
+  margin: 0;
+  padding-bottom: 31px;
+}
+
+button {
+  background-color: #571FB2;
+    color: #fff;
+    border: 0;
+    border-radius: 20px;
+    width: 10%;
+    height: 5%;
+    margin-left: 100px;
+}
+
+.bloco{
+  height: 200px;
+  background-color: #0E0119;
+}

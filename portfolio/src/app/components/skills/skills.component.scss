@@ -1,0 +1,26 @@
+.skills {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.container {
+  background-color: #E6BD2F;
+  height: 60px;
+  width: 60%;
+  display: flex;
+  align-items: center;
+  border-radius: 20px 0 0 20px;
+  h4 {
+    font-size: 30px;
+    font-weight: 400;
+    margin: 0;
+    margin-left: 20px;
+  }
+
+  .circle{
+    width: 30px;
+    height: 30px;
+    background-color: #571FB2;
+  }
+}
